@@ -1,0 +1,10 @@
+body{
+    margin:0
+}
+.navbar {
+    background-color: #AAAAAA;
+}
+.pokedex{
+    display: flex;
+    flex-direction: column;
+}
